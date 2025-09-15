@@ -22,7 +22,7 @@ My primary interests are in organic synthesis, photochemistry, and chemoinformat
 
 I am a proactive and detail-oriented individual with strong experience in project coordination and event management gained through leadership roles in national and international organizations. As president of the Applied Chemistry Students Association (NQA), I led a team of over 60 students. I have also held key roles in the National Chemistry Students Organisation (ANEQ) and the Board of European Students of Technology (BEST), where I organized international events for over 100 participants.
 
-I am always eager to connect and explore opportunities in chemical research and data-driven science.
+I am always eager to connect and explore opportunities in chemical research and data-driven science. I am currently enhancing my skills in python and SQL and activly learning HTML and Flutter
 
 ---
 
