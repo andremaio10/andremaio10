@@ -25,7 +25,7 @@
 
 </details>
 
-#### [JuliaGraphViz - Chemical Space Analyzer](https://github.com/REPLACE_WITH_ACTUAL_URL)
+#### [JuliaGraphViz - Chemical Space Analyzer](https://github.com/andremaio10/juliagraphviz)
 **Lead Developer • Chemoinformatics IV**
 *Built a Julia-based graphical tool to analyze molecular similarity networks using advanced graph theory.*
 
