@@ -5,37 +5,60 @@
 ### 🔬 Aspiring Research Scientist | Organic Synthesis & Chemoinformatics
 ### 💼 [LinkedIn](https://www.linkedin.com/in/andre-maio/) | 📫 [Email](mailto:andremarquesmaio@gmail.com)
 
----
-
-### 🏆 Featured Project: ([PharmaBuilder](https://github.com/dmgtorres/pharmabuilder))
-**Lead Developer**
-*Developed the core architecture and implemented chemical data processing using **Python** & **RDKit**.*
-
----
-
 </div>
+
+---
+
+### 🏆 Featured Projects
+
+#### [PharmaBuilder - Interactive Pharmacophore Modeling](https://github.com/dmgtorres/pharmabuilder)
+**Co-Developer • Molecular Modelling Project**
+*An interactive Python toolkit for 3D molecular visualization and pharmacophore feature detection.*
+
+<details>
+<summary><b>🛠️ Technical Highlights (PharmaBuilder)</b></summary>
+
+* **Core Engine:** Utilizes **RDKit** for 3D embedding, force-field optimization (MMFF94), and chemical feature perception.
+* **Visualization:** Integrated **py3Dmol** and **PyQtWebEngine** to provide interactive 3D rendering (Stick, Ball & Stick, Surface models).
+* **Features:** Implemented automated detection and filtering for H-Bond Donors/Acceptors, Ionizable groups, Hydrophobes, and Aromatic centers.
+* **Export System:** Developed functionality to export snapshots (.png) and filtered pharmacophore data (.json/.txt) for downstream modeling.
+
+</details>
+
+#### [JuliaGraphViz - Chemical Space Analyzer](https://github.com/REPLACE_WITH_ACTUAL_URL)
+**Lead Developer • Chemoinformatics IV**
+*Built a Julia-based graphical tool to analyze molecular similarity networks using advanced graph theory.*
+
+<details>
+<summary><b>🛠️ Technical Highlights (JuliaGraphViz)</b></summary>
+
+* [cite_start]**Graph Engine:** Leveraged `Graphs.jl` for efficient relational data modeling and traversal.
+* [cite_start]**Interactive GUI:** Developed a custom interface using `GLMakie` and `GraphMakie` for real-time visualization of chemical space.
+* [cite_start]**Algorithms:** Implemented graph normalization and isomorphism testing to identify identical chemical networks regardless of node labeling.
+
+</details>
+
+---
 
 <details>
 <summary><b>📖 About Me (Research & Leadership)</b></summary>
 
-I am André Maio, currently a Master's student in the Erasmus Mundus Joint Master's Chemoinformatics+ program at NOVA School of Science and Technology and the Université de Strasbourg. My academic journey in chemistry began with a Bachelor's in Applied Chemistry from NOVA-FCT, which included an Erasmus+ exchange at the Universitat de Barcelona.
+I am André Maio, currently a Master's student in the Erasmus Mundus Joint Master's Chemoinformatics+ program at NOVA School of Science and Technology and the Université de Strasbourg. My academic journey in chemistry began with a Bachelor's in Applied Chemistry from NOVA-FCT.
 
-My primary interests are in organic synthesis, photochemistry, and chemoinformatics, with a passion for leveraging computational tools to solve challenging chemical problems. I have hands-on research experience in synthesizing and characterizing novel fluorescent dyes.
-
-I am a proactive and detail-oriented individual with strong experience in project coordination and event management gained through leadership roles in national and international organizations. As president of the Applied Chemistry Students Association (NQA), I led a team of over 60 students. I have also held key roles in the National Chemistry Students Organisation (ANEQ) and the Board of European Students of Technology (BEST), where I organized international events for over 100 participants.
-
-I am currently enhancing my skills in **Python** and **SQL** and actively learning **HTML** and **Flutter**.
+I have hands-on research experience in synthesizing and characterizing novel fluorescent dyes, with a focus on leveraging computational tools (Python/Julia) to solve chemical challenges.
 
 </details>
 
 <br>
 
 <div align="center">
-  
+
 | 🛠️ Programming & Tech | 🧪 Chemistry & Science | 🤝 Leadership & Management |
 | :--- | :--- | :--- |
-| **Languages:** Python, SQL | Organic Synthesis | Project Management |
-| **Libraries:** RDKit, Py3DMol | Spectroscopic Analysis | Team Leadership |
-| **GUI:** PyQt5, Tkinter | NMR, UV-Vis | Public Relations |
+| **Languages:** Python, Julia, SQL | Organic Synthesis | Project Management |
+| **Libraries:** RDKit, py3Dmol, Graphs.jl | Spectroscopic Analysis | Team Leadership |
+| **GUI:** PyQt5, GLMakie, Tkinter | NMR, UV-Vis | Public Relations |
+
+</div>
 
 ---
