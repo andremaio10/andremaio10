@@ -32,9 +32,9 @@
 <details>
 <summary><b>🛠️ Technical Highlights (JuliaGraphViz)</b></summary>
 
-* [cite_start]**Graph Engine:** Leveraged `Graphs.jl` for efficient relational data modeling and traversal.
-* [cite_start]**Interactive GUI:** Developed a custom interface using `GLMakie` and `GraphMakie` for real-time visualization of chemical space.
-* [cite_start]**Algorithms:** Implemented graph normalization and isomorphism testing to identify identical chemical networks regardless of node labeling.
+* **Graph Engine:** Leveraged `Graphs.jl` for efficient relational data modeling and traversal.
+* **Interactive GUI:** Developed a custom interface using `GLMakie` and `GraphMakie` for real-time visualization of chemical space.
+* **Algorithms:** Implemented graph normalization and isomorphism testing to identify identical chemical networks regardless of node labeling.
 
 </details>
 
